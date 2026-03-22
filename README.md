@@ -1,6 +1,4 @@
-# documenta
-
-# Como recuperar website de VPS
+# Conectarse a servidor VPS cuando se desvinculo SSH
 
 1. Habilitar el acceso root en la configuración abriendo
 el archivo sshd_config con el comando:
